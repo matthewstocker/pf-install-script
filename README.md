@@ -94,3 +94,7 @@ If you install to a custom folder, use the same `POKEFIELDS_DIR` when uninstalli
 - `unzip`, `bsdtar` or `python3` to extract the download
 
 Almost every desktop distro ships with these already. No root access is needed.
+
+## AI Disclosure
+
+Claude Code was used to assist in writing this script.

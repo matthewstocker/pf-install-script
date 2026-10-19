@@ -4,6 +4,8 @@ A one-step installer for [PokeFields](https://pokefields.com) on Linux. It downl
 release, puts it in a folder in your home directory, and adds PokeFields to your application menu
 and desktop. It works on any distro and desktop environment.
 
+** THIS PROJECT IS NOT AFFILIATED WITH THE POKEFIELDS PROJECT IN ANY WAY, DO NOT GO ASKING THEM FOR SUPPORT WITH THIS SCRIPT **
+
 ## Quick install
 
 Copy and paste this into a terminal. You don't need to clone anything:
